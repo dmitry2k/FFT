@@ -1,0 +1,8 @@
+﻿  main.cpp
+main.cpp(147): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+main.cpp(177): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  Finished generating code
+  All 64 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  FFT.vcxproj -> C:\Users\Dmitry\Desktop\FFT\x64\Release\FFT.exe
+  FFT.vcxproj -> C:\Users\Dmitry\Desktop\FFT\x64\Release\FFT.pdb (Full PDB)

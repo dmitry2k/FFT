@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\dmitry\desktop\fft\fft\main.cpp(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\dmitry\desktop\fft\fft\main.cpp(178): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  FFT.vcxproj -> C:\Users\Dmitry\Desktop\FFT\x64\Debug\FFT.exe
+  FFT.vcxproj -> C:\Users\Dmitry\Desktop\FFT\x64\Debug\FFT.pdb (Partial PDB)
